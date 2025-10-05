@@ -1,0 +1,36 @@
+{
+  "zoo_name": "Рязанский зоопарк",
+  "animals": [
+    {
+      "type": "Bird",
+      "name": "Кеша",
+      "age": 2
+    },
+    {
+      "type": "Mammal",
+      "name": "Симба",
+      "age": 5
+    },
+    {
+      "type": "Reptile",
+      "name": "Каа",
+      "age": 3
+    },
+    {
+      "type": "Mammal",
+      "name": "Дамбо",
+      "age": 10
+    }
+  ],
+  "employees": [
+    {
+      "name": "Иван Петров",
+      "position": "Смотритель"
+    },
+    {
+      "name": "Мария Сидорова",
+      "position": "Ветеринар"
+    }
+  ],
+  "saved_at": "2025-10-05T19:48:03.056906"
+}
